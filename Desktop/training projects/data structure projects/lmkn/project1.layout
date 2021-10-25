@@ -1,0 +1,30 @@
+#include <iostream>
+#include <stdio.h>
+#include <stdlib.h>
+using namespace std;
+
+int main()
+{
+FILE *fp1,*fp2 ;
+char ch ;
+if ((fp1= fopen("main.cpp ","r"))==NULL){
+
+ printf ("cannot open sourse file \n" );exit (1);
+
+
+}
+if ((fp2=fopen("project1.layout ","w"))==NULL){
+
+    cout<<"CAN NOT OPEN DESTINATION \n"; exit(1);
+
+}
+
+while ((ch=fgetc(fp1))!=EOF)
+fputc(ch,fp2);
+fclose(fp1);
+ fclose (fp2);
+
+
+
+    return 0;
+}

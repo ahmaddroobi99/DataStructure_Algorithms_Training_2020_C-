@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569942813 source:c:\users\lenovo\desktop\training projects\oop projex=ct\main.cpp
+	<iostream>
+	<stdio.h>
+

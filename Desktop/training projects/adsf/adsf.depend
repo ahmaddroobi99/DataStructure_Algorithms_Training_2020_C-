@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568057233 source:c:\users\lenovo\desktop\adsf\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+
