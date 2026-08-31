@@ -1,19 +1,10 @@
-# DataStructure_Algorithms_Training_2020_C-
+# C++ data-structures training dump
 
-Original C++ coursework / practice repository (2021).
+C++ data-structures / algorithms practice dump. Sources under `Desktop/`.
 
-This repository is **original work** on this account. It is kept for provenance.
+**Stack:** C++
 
-It is **not** current research. Featured work:
+---
+Historical **BSc Computer Engineering** work (An-Najah National University, 2021). Kept for provenance — not current research.
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
-
-## Language
-
-C++
-
-## Year
-
-2021
+Current work: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
